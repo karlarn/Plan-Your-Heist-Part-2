@@ -1,0 +1,16 @@
+C:\Users\karla\workspace\csharp\HeistPartTwo\bin\Debug\net5.0\HeistPartTwo.exe
+C:\Users\karla\workspace\csharp\HeistPartTwo\bin\Debug\net5.0\HeistPartTwo.deps.json
+C:\Users\karla\workspace\csharp\HeistPartTwo\bin\Debug\net5.0\HeistPartTwo.runtimeconfig.json
+C:\Users\karla\workspace\csharp\HeistPartTwo\bin\Debug\net5.0\HeistPartTwo.runtimeconfig.dev.json
+C:\Users\karla\workspace\csharp\HeistPartTwo\bin\Debug\net5.0\HeistPartTwo.dll
+C:\Users\karla\workspace\csharp\HeistPartTwo\bin\Debug\net5.0\ref\HeistPartTwo.dll
+C:\Users\karla\workspace\csharp\HeistPartTwo\bin\Debug\net5.0\HeistPartTwo.pdb
+C:\Users\karla\workspace\csharp\HeistPartTwo\obj\Debug\net5.0\HeistPartTwo.csproj.AssemblyReference.cache
+C:\Users\karla\workspace\csharp\HeistPartTwo\obj\Debug\net5.0\HeistPartTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karla\workspace\csharp\HeistPartTwo\obj\Debug\net5.0\HeistPartTwo.AssemblyInfoInputs.cache
+C:\Users\karla\workspace\csharp\HeistPartTwo\obj\Debug\net5.0\HeistPartTwo.AssemblyInfo.cs
+C:\Users\karla\workspace\csharp\HeistPartTwo\obj\Debug\net5.0\HeistPartTwo.csproj.CoreCompileInputs.cache
+C:\Users\karla\workspace\csharp\HeistPartTwo\obj\Debug\net5.0\HeistPartTwo.dll
+C:\Users\karla\workspace\csharp\HeistPartTwo\obj\Debug\net5.0\ref\HeistPartTwo.dll
+C:\Users\karla\workspace\csharp\HeistPartTwo\obj\Debug\net5.0\HeistPartTwo.pdb
+C:\Users\karla\workspace\csharp\HeistPartTwo\obj\Debug\net5.0\HeistPartTwo.genruntimeconfig.cache
